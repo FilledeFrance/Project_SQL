@@ -1,7 +1,7 @@
 # Project_SQL
 
 ## OBSAH
-Repozitar obsahuje 7 SQL skriptů - 2 pro vytvoreni podkladovych tabulek s potrebnymi daty a 5 obsahujici kod potrebny pro zodpovezeni 5 vyzkumnych otazek.
+Repozitar obsahuje 7 SQL skriptů - 2 pro vytvoreni podkladovych tabulek (Script_primary_table a Script_secondary_table) s potrebnymi daty a 5 obsahujici kod potrebny pro zodpovezeni 5 vyzkumnych otazek (Scirpt1 až Script5).
 
 Dale repozitar obsahuje tento markdown soubor s vysvetlenim toho, jak byly podkladove tabulky vytvoreny a s odpovedmi na otazky.
 
