@@ -19,7 +19,7 @@ Tam, kde industry_branch_code chybi, se jedna o prumernou mzdu ve vsech odvetvic
 Pro HDP zde mame HDP celkove (v Kč) za rok a HDP per capita, tedy HDP na 1 obyvatele. 
 
 ### SEKUNDARNI TABULKA
-Sekundarni tabulka vznikla vyfiltrovanim z tabulky economies. Obsahuje informaci o HDP, populaci a hodnote Giniho koeficientu za jednotlive roky pro stejne obdobi jako primarni tabulka, tedy 2006-2018, pro velke mnozstvi evropskych statu.
+Sekundarni tabulka vznikla vyfiltrovanim evropskych statu z tabulky economies pomoci tabulky countries. Obsahuje informaci o HDP, populaci a hodnote Giniho koeficientu za jednotlive roky pro stejne obdobi jako primarni tabulka, tedy 2006-2018.
 
 ## ODPOVEDI NA VYZKUMNE OTAZKY
 ### 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
