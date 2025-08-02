@@ -11,7 +11,7 @@ LEFT JOIN countries AS c
 WHERE c.continent = 'Europe'
 	AND ec."year" > 2005
 	AND ec."year" <2019
-	AND ec.country != 'Czech Republic'
+	
 
 
 SELECT *
@@ -22,4 +22,5 @@ ORDER BY
 
 	
 --pro smazani tabulky:	
+
 DROP TABLE t_sarka_motylova_project_sql_secondary_final 
