@@ -22,5 +22,4 @@ ORDER BY
 
 	
 --pro smazani tabulky:	
-
 DROP TABLE t_sarka_motylova_project_sql_secondary_final 
